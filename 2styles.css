@@ -1,0 +1,22 @@
+body{clear:#333;
+font-family:  sans-serif;}
+header {background-color:rgba(141, 196, 218, 0.788)}
+.container{
+width:250px;
+display:flex;
+margin: auto;
+text-align:center;
+}
+ul{list-style:none;}
+.icon img {border-radius:50% ;
+   border-width:10px;
+  border-style:solid;
+  border-color:rgba(223, 175, 120, 0.74);
+  display:flex;
+  ;
+}
+.tyuukan {text-align:center; 
+
+}
+
+.sita {text-align:center;}
